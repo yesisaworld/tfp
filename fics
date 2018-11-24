@@ -1,0 +1,86 @@
+<button class="button" data-filter=".larry">LARRY</button>
+<button class="button" data-filter=".lilo">LILO</button>
+<button class="button" data-filter=".lirry">LIRRY</button>
+<button class="button" data-filter=".nirry">NARRY</button>
+<button class="button" data-filter=".niam">NIAM</button>
+<button class="button" data-filter=".nouis">NOUIS</button>
+<button class="button" data-filter=".zarry">ZARRY</button>
+<button class="button" data-filter=".ziall">ZIALL</button>
+<button class="button" data-filter=".ziam">ZIAM</button>
+<button class="button" data-filter=".zouis">ZOUIS</button>
+<button class="button" data-filter=".gryles">GRYLES</button>
+<button class="button" data-filter=".nessie">NESSIE</button>
+<button class="button" data-filter=".tomlinshaw">TOMLINSHAW</button>
+<button class="button" data-filter=".rare">RARE PAIR</button>
+<button class="button" data-filter=".multi">MULTIPLE</button>
+<button class="button" data-filter=".none">NONE</button>
+
+<button class="button" data-filter=".slarry">LARRY</button>
+<button class="button" data-filter=".slilo">LILO</button>
+<button class="button" data-filter=".slirry">LIRRY</button>
+<button class="button" data-filter=".snirry">NARRY</button>
+<button class="button" data-filter=".sniam">NIAM</button>
+<button class="button" data-filter=".snouis">NOUIS</button>
+<button class="button" data-filter=".szarry">ZARRY</button>
+<button class="button" data-filter=".sziall">ZIALL</button>
+<button class="button" data-filter=".sziam">ZIAM</button>
+<button class="button" data-filter=".szouis">ZOUIS</button>
+<button class="button" data-filter=".sgryles">GRYLES</button>
+<button class="button" data-filter=".snessie">NESSIE</button>
+<button class="button" data-filter=".stomlinshaw">TOMLINSHAW</button>
+<button class="button" data-filter=".snone">NONE</button>
+
+<button class="button" data-filter=".explicit">explicit</button>
+<button class="button" data-filter=".mature">mature</button>
+<button class="button" data-filter=".tau">teen and up</button>
+<button class="button" data-filter=".general">general</button>
+<button class="button" data-filter=".not">not rated</button>
+
+<button class="button" data-filter=".100">drabble</button>
+<button class="button" data-filter=".u5">0-5000</button>
+<button class="button" data-filter=".u10">5001-10000</button>
+<button class="button" data-filter=".u25">10001-25000</button>
+<button class="button" data-filter=".u50">25001-50000</button>
+<button class="button" data-filter=".u100">50001-100000</button>
+<button class="button" data-filter=".100k">over 100k</button>
+
+<button class="button" data-filter=".canon">Canon</button>
+<button class="button" data-filter=".div">Canon Divergent</button>
+<button class="button" data-filter=".future">Future Fic</button>
+<button class="button" data-filter=".au">AU</button>
+
+
+<!-- start of a category -->
+<div class="category TAGS">
+<h3 class="title"><a href="LINK">TITLE</a></h3>
+<p class="author">AUTHOR</a>
+<p class="pair">PAIRING</p>
+<p class="side">SIDE</p>
+<p class="rating">RATING</p>
+<p class="words">WC</p>
+<p class="summary">SUMMARY</p>
+<p class="more">TAGS</p>
+</div>
+<!-- end of a category -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
