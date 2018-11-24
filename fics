@@ -50,6 +50,7 @@
 <button class="button" data-filter=".au">AU</button>
 
 
+
 <!-- start of a category -->
 <div class="category TAGS">
 <h3 class="title"><a href="LINK">TITLE</a></h3>
@@ -62,9 +63,6 @@
 <p class="more">TAGS</p>
 </div>
 <!-- end of a category -->
-
-
-
 
 
 
